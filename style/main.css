@@ -1,0 +1,51 @@
+
+      
+
+
+
+      
+        table, th, td{
+            border: 1px dotted rgba(rgba 43, 255, 12, 25.904);
+        }
+
+        a{
+            font-size: xx-large;
+        }
+
+     li{
+        background-color: rgb(224, 223, 209);
+     }
+        
+     dl{
+        background-color: rgb(145, 255, 0);
+     }
+img{
+    width: 32%;
+}
+    
+h1{
+    font-size: 32pt;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+    #kirmiziLi
+{
+    color:rgb(47, 0, 255);
+}
+#maviLi
+{
+    color: rgb(13, 23, 117);
+    background-color: rgb(114, 155, 179);
+}
+.ilkLi
+{
+    font-size: 20pt;
+    font-weight: bold;
+}
+p:hover{
+    font-style: italic;
+}
+    
+
+
