@@ -1,9 +1,65 @@
 .advertisement
 {
-	width:100px;
-	height:150px; 
+
+	position: absolute;   
+	top: 8px;
+	left: 8px;
+	width:100px;    
+	height:130px; 
 	border-color:black;
 	border-width:2px; 
-	background-color:gray; 
-	color:white;
+	background-color:rgb(200, 207, 179); 
+	color:rgb(4, 31, 36);
+	margin-left: 0px;
+
+}
+div
+{
+	margin-left: 100px;
+}
+#koala
+{
+	width: 30%;
+	float: left;
+	margin-right: 5px;
+	clear: both;
+}
+.header
+{
+	width: 70%;
+	height: 200%; 
+	width: 550px;
+	float: midten;
+	margin-bottom: 25px;
+} 
+  
+.class
+{
+	background-color: rgba(165, 82, 82, 0.918);
+	float: left;
+}
+.title
+{
+	background-color: rgb(200, 194, 224);
+	float:left;
+}
+
+.logo
+{
+	background-color: rgb(21, 243, 51);
+}
+.content
+{
+	margin-top: 100px;
+	clear: both;
+}
+.copyright
+{
+	margin-top: 30px;
+	text-align: center;
+}
+.main
+{
+	width: 70%;
+	text-align:justify ;
 }
